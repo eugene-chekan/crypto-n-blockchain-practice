@@ -1,0 +1,3 @@
+This is a test file for digital signature verification.
+It contains multiple lines of text to demonstrate
+file-based signing and verification capabilities.
